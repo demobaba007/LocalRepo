@@ -2,3 +2,6 @@
 
 Author - Demobaba
 By - Demon
+
+This is to resolve Empty commit in Git
+https://youtu.be/55KRCYnUztQ?si=s5UYO6uDHsBhMn7b
